@@ -3,7 +3,6 @@ Laboratorio para practicar la explotación del backdoor de vsftpd 2.3.4 (CVE-201
 # Writeup — tproot (DockerLabs)
 
 > **Dificultad:** Fácil
-> **Autor máquina:** David Rodríguez
 > **Resumen:** Acceso directo a *root* explotando el backdoor histórico de **vsFTPd 2.3.4** (CVE-2011-2523). No requiere escalada de privilegios.
 
 ---
